@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables (contains API key)
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Backup files
+*.bak
+*.rules.bak
+
+# IDE folders
+.vscode/
+.idea/
